@@ -1,5 +1,20 @@
 # DEV 24/7 — Self-Evolving AI Agent System
 
+<div align="center">
+
+<img src="https://i.imgur.com/0vFDSdU.png" width="160" alt="DEV 24/7 Token Logo" style="border-radius:50%"/>
+
+### 🪙 $DEV247 — The token that never sleeps
+[![pump.fun](https://img.shields.io/badge/Buy%20on-pump.fun-a855f7?style=for-the-badge&logo=solana&logoColor=white)](https://pump.fun)
+[![Solana](https://img.shields.io/badge/Solana-Network-14F195?style=for-the-badge&logo=solana&logoColor=black)](https://solana.com)
+[![Twitter](https://img.shields.io/badge/Follow-@edinsoncode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/edinsoncode)
+
+> **No VCs. No presale. Fair launch. Built by a dev who ships.**
+
+</div>
+
+---
+
 > Built by **edinsoncode** · [@edinsoncode](https://twitter.com/edinsoncode)
 
 A production-running AI agent built in **~3,500 lines of pure Python** with **zero framework dependency**. No LangChain, no LlamaIndex, no CrewAI — just the standard library + 3 small packages (`croniter`, `lancedb`, `websocket-client`).
@@ -179,6 +194,30 @@ See [`config.example.json`](config.example.json) for the full configuration stru
 3. **Edge-deployable** — Designed to run on Jetson Orin Nano (8GB RAM, ARM64 + GPU). RAM budget under 2GB.
 4. **Self-evolving** — The agent can create new tools at runtime, diagnose its own issues, and notify the owner.
 5. **Offline-capable** — Core functionality works without cloud APIs (except the LLM itself). Local embeddings supported.
+
+---
+
+## 🪙 Token — pump.fun
+
+<div align="center">
+
+<img src="https://i.imgur.com/0vFDSdU.png" width="180" alt="DEV 24/7 Token Logo" style="border-radius:50%"/>
+
+### **$DEV247**
+> *The token that never sleeps — just like the agent.*
+
+[![pump.fun](https://img.shields.io/badge/Buy%20on-pump.fun-a855f7?style=for-the-badge&logo=solana&logoColor=white)](https://pump.fun)
+[![Solana](https://img.shields.io/badge/Solana-Network-14F195?style=for-the-badge&logo=solana&logoColor=black)](https://solana.com)
+[![Twitter](https://img.shields.io/badge/Follow-@edinsoncode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/edinsoncode)
+
+| 🏷️ Name | 💎 Symbol | ⛓️ Network | 🚀 Platform |
+|---|---|---|---|
+| DEV 24/7 | `$DEV247` | Solana | pump.fun |
+
+> Built by a dev who ships. Backed by an AI that runs 24/7.  
+> **No VCs. No presale. Fair launch.**
+
+</div>
 
 ---
 
