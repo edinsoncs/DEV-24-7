@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://firebasestorage.googleapis.com/v0/b/atstrc-2ab58.firebasestorage.app/o/ChatGPT%20Image%2024%20mar%202026%2C%2011_14_37%20p.m..png?alt=media" width="160" alt="DEV 24/7 Token Logo" style="border-radius:50%"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/atstrc-2ab58.firebasestorage.app/o/ChatGPT%20Image%2024%20mar%202026%2C%2011_14_37%20p.m..png?alt=media" width="500" height="700" alt="DEV 24/7 Token Logo" style="border-radius:50%"/>
 
 ### 🪙 $DEV247 — The token that never sleeps
 [![pump.fun](https://img.shields.io/badge/Buy%20on-pump.fun-a855f7?style=for-the-badge&logo=solana&logoColor=white)](https://pump.fun)
