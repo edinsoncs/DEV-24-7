@@ -132,8 +132,8 @@ Layer 3: Retrieval (active recall)
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/edinsoncode/724-office.git
-cd 724-office
+git clone https://github.com/edinsoncode/DEV-24-7.git
+cd DEV-24-7
 cp config.example.json config.json
 # Edit config.json with your API keys
 ```
